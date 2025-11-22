@@ -69,3 +69,14 @@
 🛠️ CRUD Operation Php, Ajax, Jquery
 * https://github.com/Sayan002-subo/crud-php-ajax-/tree/main/Ajax%20with%20php
 
+🌍 Some Live Deployments project
+
+🛒 Shopping Website
+* https://sayan002-subo.github.io/shopping-web
+
+🍔 Online Food Cart
+* https://sayan002-subo.github.io/food-cart
+
+☁️ Check Weather App
+* https://sayan002-subo.github.io/weatherapp
+
