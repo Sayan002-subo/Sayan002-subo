@@ -92,8 +92,10 @@
 * https://github.com/Sayan002-subo/React-ecommerce
 
 ✨ Thank You for Visiting!
+
 If you like my work, feel free to ⭐ star this repository and follow me for more projects.
 I'm consistently learning and building modern web applications — your support motivates me to grow further.
 
 📬 Let’s Connect:
+
 If you have collaboration ideas, freelance work, or project discussions, I’m always open to talk!
