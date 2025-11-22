@@ -21,7 +21,7 @@
 
 * Startups
 * Open-Source Projects
-* 
+  
 ## 📞 Contact Me
 
 * Call me: +91 6294943050
