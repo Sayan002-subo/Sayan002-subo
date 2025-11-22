@@ -37,3 +37,26 @@
 ### ⚙️ Backend
 
 * Laravel , Php , Mysql
+
+💼 HTML, CSS, JavaScript Projects
+
+☁️ Weather App
+* https://github.com/Sayan002-subo/weatherapp
+  
+🖼️ Slide Image
+* https://github.com/Sayan002-subo/sliding-image
+
+🛍️ Shopping Website
+* https://github.com/Sayan002-subo/shopping-web
+
+🍔 Food Cart
+* https://github.com/Sayan002-subo/food-cart
+
+## 📡 Backend / Fullstack Projects(Laravel and core php)
+
+💼🛒 Laravel E-commerce Project
+* https://github.com/Sayan002-subo/Laravel-Ecommerce-Full-Project
+
+🖼️✏️ Laravel Image CRUD Operation
+* https://github.com/Sayan002-subo/laravel-login-show-with-image
+
