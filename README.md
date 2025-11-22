@@ -69,7 +69,7 @@
 🛠️ CRUD Operation Php, Ajax, Jquery
 * https://github.com/Sayan002-subo/crud-php-ajax-/tree/main/Ajax%20with%20php
 
-🌍 ## Live Deployments
+## 🌍 Live Deployments
 
 🛒 Shopping Website
 * https://sayan002-subo.github.io/shopping-web
