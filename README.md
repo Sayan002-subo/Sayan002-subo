@@ -88,8 +88,11 @@
 📋 Todo List
 * https://github.com/Sayan002-subo/React-todo-list
 
-💼🛒 Shopping Website
+💼 Shopping Website
 * https://github.com/Sayan002-subo/React-ecommerce
+
+📱 Social Media App
+* https://github.com/Sayan002-subo/SocialMedia-app
 
 ## ✨ Thank You for Visiting!
 
