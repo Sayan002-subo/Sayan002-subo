@@ -32,11 +32,11 @@
 
 ### 💻 Frontend
 
-* HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, API Integration using laravel.
+* HTML, CSS, JavaScript, Bootstrap-5, Tailwind CSS, API Integration using laravel.
 
 ### ⚙️ Backend
 
-* Laravel , Php , Mysql
+* Laravel , Php , Mysql , Ajax , jQuery
 
 ## 💼 HTML, CSS, JavaScript Projects
 
