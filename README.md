@@ -56,8 +56,8 @@
 
 💼🛒 Laravel E-commerce Project:
 * https://github.com/Sayan002-subo/Laravel-Ecommerce-Full-Project
-* LinkedIn FRONT-END : https://www.linkedin.com/feed/update/urn:li:activity:7400844662292447232/
-* LinkedIn Admin-Section : https://www.linkedin.com/feed/update/urn:li:activity:7400897066027085824/
+* LinkedIn FRONT-END Video : https://www.linkedin.com/feed/update/urn:li:activity:7400844662292447232/
+* LinkedIn Admin-Section Video : https://www.linkedin.com/feed/update/urn:li:activity:7400897066027085824/
 
 🖼️✏️ Laravel Image CRUD Operation:
 * https://github.com/Sayan002-subo/laravel-login-show-with-image
@@ -67,7 +67,7 @@
 
 📦php Ajax jQuery(without reload) mini project:
 * https://github.com/Sayan002-subo/PHP-Ajax-jQuery-Mini-Project-
-* LinkedIn Link : https://www.linkedin.com/feed/update/urn:li:activity:7407796141418954752/
+* LinkedIn Video Link : https://www.linkedin.com/feed/update/urn:li:activity:7407796141418954752/
 
 💼🛒 Core php E-commerce Project:
 * https://github.com/Sayan002-subo/Ecommercel-core-php/tree/main/Ecommers%20Website
