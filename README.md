@@ -40,58 +40,64 @@
 
 ## 💼 HTML, CSS, JavaScript Projects
 
-☁️ Weather App
+☁️ Weather App:
 * https://github.com/Sayan002-subo/weatherapp
   
-🖼️ Slide Image
+🖼️ Slide Image:
 * https://github.com/Sayan002-subo/sliding-image
 
-🛍️ Shopping Website
+🛍️ Shopping Website:
 * https://github.com/Sayan002-subo/shopping-web
 
-🍔 Food Cart
+🍔 Food Cart:
 * https://github.com/Sayan002-subo/food-cart
 
-## 📡 Backend / Fullstack Projects(Laravel and php)
+## 📡 Backend / Fullstack Projects(Laravel, php, Ajax and jQuery)
 
-💼🛒 Laravel E-commerce Project
+💼🛒 Laravel E-commerce Project:
 * https://github.com/Sayan002-subo/Laravel-Ecommerce-Full-Project
+* LinkedIn FRONT-END : https://www.linkedin.com/feed/update/urn:li:activity:7400844662292447232/
+* LinkedIn Admin-Section : https://www.linkedin.com/feed/update/urn:li:activity:7400897066027085824/
 
-🖼️✏️ Laravel Image CRUD Operation
+🖼️✏️ Laravel Image CRUD Operation:
 * https://github.com/Sayan002-subo/laravel-login-show-with-image
   
-🔑 Laravel API Login
+🔑 Laravel API Login:
 * https://github.com/Sayan002-subo/Laravel-login-Api
 
-💼🛒 Core php E-commerce Project
+📦php Ajax jQuery(without reload) mini project:
+* https://github.com/Sayan002-subo/PHP-Ajax-jQuery-Mini-Project-
+* LinkedIn Link : https://www.linkedin.com/feed/update/urn:li:activity:7407796141418954752/
+
+💼🛒 Core php E-commerce Project:
 * https://github.com/Sayan002-subo/Ecommercel-core-php/tree/main/Ecommers%20Website
 
-🛠️ CRUD Operation Php, Ajax, Jquery
+🛠️ CRUD Operation Php, Ajax, Jquery:
 * https://github.com/Sayan002-subo/crud-php-ajax-/tree/main/Ajax%20with%20php
 
 ## 🌍 Live Deployments
 
-🛒 Shopping Website
+🛒 Shopping Website:
 * https://sayan002-subo.github.io/shopping-web
 
-🍔 Online Food Cart
+🍔 Online Food Cart:
 * https://sayan002-subo.github.io/food-cart
 
-☁️ Check Weather App
+☁️ Check Weather App:
 * https://sayan002-subo.github.io/weatherapp
 
 ## ⚛️ React.js Projects
 
-🧮 Calculator
+🧮 Calculator:
 * https://github.com/Sayan002-subo/React-calculator
 
-📋 Todo List
+📋 Todo List:
 * https://github.com/Sayan002-subo/React-todo-list
 
-💼 Shopping Website
+💼 Shopping Website:
 * https://github.com/Sayan002-subo/React-ecommerce
 
-📱 Social Media App
+📱 Social Media App:
 * https://github.com/Sayan002-subo/SocialMedia-app
 
 ## ✨ Thank You for Visiting!
